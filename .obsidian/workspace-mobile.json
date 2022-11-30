@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4cb8c1697619701f",
+        "id": "8f9d31b976f92619",
         "type": "tabs",
         "children": [
           {
-            "id": "5dec5a145b236ac6",
+            "id": "bed0cdd5111624de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-29.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "a622f54b7db7f161"
-          }
-        ]
-      },
-      {
-        "id": "4db206db5c9d80a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cb357ca265225d5d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2022-11-29.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.9795067075067858,
-                  "close": true
-                }
-              }
-            },
-            "group": "a622f54b7db7f161"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -129,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2022-11-29.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2022-11-29.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,17 +107,19 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "2022-11-29.md"
-          }
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "5dec5a145b236ac6",
+  "active": "bed0cdd5111624de",
   "lastOpenFiles": [
-    "2022-11-28.md",
+    "daily/2022-11-30.md",
+    "daily/2022-11-29.md",
+    "ability_scores.md",
+    "dnd 5e ability scores.md",
+    "daily/2022-11-28.md",
     "master.md"
   ]
 }
