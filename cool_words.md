@@ -23,3 +23,8 @@ Farctate (FARK-teyt) adjective: Latin, 19th century Definition: Stuffed; filled 
 Instauration (in-staw-REY-shən) noun: Latin, 17th centuryDefinition: The action of restoring or renewing something.
 
 Sough (səf) noun: Middle English, 14th century Definition: A moaning, whistling, or rushing sound as made by the wind in the trees or the sea.
+
+pyrrhic noun:pyr·​rhic ˈpir-ik : a metrical foot consisting of two short or unaccented syllables
+   adjective Pyr·​rhic ˈpir-ik : achieved at excessive cost
+   also : costly to the point of negating or outweighing expected benefits
+
