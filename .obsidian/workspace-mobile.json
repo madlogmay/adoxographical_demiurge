@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8f9d31b976f92619",
+        "id": "96e66730112b329a",
         "type": "tabs",
         "children": [
           {
-            "id": "bed0cdd5111624de",
+            "id": "34997d759aabbb22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-11-30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "daily/2022-11-30.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "daily/2022-11-30.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,19 +114,25 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "daily/2022-11-30.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "bed0cdd5111624de",
+  "active": "34997d759aabbb22",
   "lastOpenFiles": [
+    "daily/2022-11-30 2.md",
+    "daily/2022-12-01.md",
+    "R.md",
+    "wip metadata.md",
+    "wip characters.md",
     "daily/2022-11-30.md",
     "daily/2022-11-29.md",
     "ability_scores.md",
     "dnd 5e ability scores.md",
-    "daily/2022-11-28.md",
-    "master.md"
+    "daily/2022-11-28.md"
   ]
 }
