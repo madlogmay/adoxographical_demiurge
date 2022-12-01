@@ -28,3 +28,4 @@ pyrrhic noun:pyr·​rhic ˈpir-ik : a metrical foot consisting of two short or 
    adjective Pyr·​rhic ˈpir-ik : achieved at excessive cost
    also : costly to the point of negating or outweighing expected benefits
 
+Deucedly (DOO-sid-lee)  adverb German, 17th century Definition: Quite; extremely; utterly.
