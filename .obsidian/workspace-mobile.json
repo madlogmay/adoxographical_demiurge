@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-30.md",
+                "file": "daily/2022-12-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "daily/2022-11-30.md",
+            "file": "daily/2022-12-02.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "daily/2022-11-30.md",
+            "file": "daily/2022-12-02.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "daily/2022-11-30.md"
+            "file": "daily/2022-12-02.md"
           }
         }
       }
@@ -124,12 +124,12 @@
   },
   "active": "34997d759aabbb22",
   "lastOpenFiles": [
+    "daily/2022-11-30.md",
     "daily/2022-11-30 2.md",
     "daily/2022-12-01.md",
     "R.md",
     "wip metadata.md",
     "wip characters.md",
-    "daily/2022-11-30.md",
     "daily/2022-11-29.md",
     "ability_scores.md",
     "dnd 5e ability scores.md",
