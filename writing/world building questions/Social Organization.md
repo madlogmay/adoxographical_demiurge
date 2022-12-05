@@ -1,0 +1,274 @@
+Worldbuilding Questions: Social Organization
+- General
+	- Where is scientific and/or magical research done — universities, private labs, under the auspices of the ruler/government, etc.?
+	- Does it require a license to be a wizard? 
+	- If so, is it more like a driver’s license (something nearly everyone in our culture gets upon coming of age) or like a doctor’s license (something only a small percentage of the population will ever get)? 
+	- Who certifies wizards: government, wizard’s guild/AMA, local priests?
+	- What are the various ranks and titles and proper forms of address for the aristocracy/nobility? 
+	- Is everybody “my lord” and “my lady,” or are there more distinctions (your grace, your highness, your majesty, your holiness)?
+	- What occupations are respected? 
+	- Looked down on? 
+	- Why?
+	- How many levels are there in this society: peasant, bourgeoisie, warrior, noble? 
+	- How difficult is it to rise or fall from one social level to another? 
+	- How firm are the divisions between social classes — is it disgraceful for a noble to engage in trade or for a warrior to help with the harvest?
+	- How difficult is it to rise or fall from one social level to another? 
+	- How much social mobility is there? 
+	- How much do people think there is?
+	- What are the standards of beauty for people? 
+	- Paintings and sculpture? 
+	- Clothes and furniture? 
+	- How do they differ from the standards in your culture (example: a country which considers fatness a highly desirable beauty trait)? How do standard of beauty reflect the physical traits of the various races (examples: dwarves might consider excessive height unattractive; werewolves might be attracted by long teeth or a particular scent)?
+- Government
+	- How has the presence of magic and magicians affected law and government? 
+	- Are wizards barred from certain kinds of government jobs or offices? 
+	- Do some government jobs require that their holder be a wizard?
+	- What is the basic style of government: feudal, aristocratic, oligarchy, absolute ruler, democracy, what? 
+	- What forms are used in neighboring countries, and why are they the same or different?
+	- What services does the government or head of state provide: schools, wells, courts, an army to protect people from the Vikings? 
+	- What services are provided locally or privately?
+	- Who has the right to levy taxes? 
+	- For what? 
+	- On what or whom? 
+	- Can taxes be paid in kind, or do certain things require money?
+	- Who provides support services for the head of state? 
+	- What are they called: King’s Counselors, Cabinet Ministers, Secretary of State, Good Ol’ Girls? 
+	- Are they hereditary offices, civil servants, appointees, military, elected?
+	- Is the relative power of a country or ruler usually measured by the size of its army, the number and ability of its wizards, or the amount of money/trade flowing through it?
+	- Who is considered a citizen, with the rights and privileges thereof? 
+	- What are those rights and privileges (voting, protection from thieves, the right to a hearing in Rome) and what responsibilities go along with them (jury duty, providing funds or knights for the lord’s army?
+	- Are there certain classes of people (wizards, foreigners, children, peasants, women) who have fewer legal rights or less recourse than full citizens? 
+	- Why? 
+	- Are they considered mentally or morally deficient, a danger to the state, or is there some other rationale?
+	- What are the easiest/most common ways to advance in status — amass more money, marry well, get the ruler’s eye, etc.? 
+	- How much resistance is there to someone advancing in social status?
+	- Who will take over running the government if the current head of state is incapacitated? 
+	- How is this determined? 
+	- Is there an heir apparent (either actual or political)? 
+	- What happens if the heir is a minor? 
+	- Who gives orders? 
+	- How are they picked?
+	- Who is responsible for protecting the head of state? 
+	- His personal guard, the Secret Service, an elite group affiliated with the regular military? 
+	- What safeguards have they got against assassins, poisoning, direct assault, magical attack?
+	- Who can give orders (to military, to tax collectors, to servants, to ordinary folks on the street)? 
+	- How are such people chosen?
+	- Who is responsible for coinage: the ruler, local barons, someone else (merchant guilds)? 
+	- Are there generally acceptable standards? 
+	- How easy/common is counterfeiting?
+	- Is there an organized system of education? 
+	- If so, who provides it: government, churches, private persons? 
+	- How is it supported?
+	- Who can call up men for an army, and how? 
+	- Does the ruler ask the nobility for men, who in turn draft their peasants, or can the ruler go straight to the bottom?
+	- How much formal spying and intelligence gathering is normally done by governments? 
+	- The military? 
+	- Merchant guilds and wealthy tradesmen? 
+	- Are there actual organizations, or is spying done by diplomats and/or freelance agents? 
+	- How effective is it currently?
+	- Do relations between countries depend mainly on the relations between the heads of state, or can two rulers hate each other’s guts without being able to just declare war and drag their countries into it?
+	- Are there times when people are expected to fast, or feast (e.g., before solstice, after the birth of a child, during Lent or Ramadan, after the death of a ruler, etc.)? 
+	- Are there occasions when the ruler is expected to provide a celebration or spectacle for the people to enjoy, (e.g., the Roman gladiatorial games)?
+- Politics
+	- Is magic a profession, an art, or just a job? 
+	- What is the status accorded to magicians in this society? 
+	- Are they forbidden overt political action, or are wizards and the wizard’s guild knee-deep in court intrigue?
+	- Are magicians a force in politics, or are they above it? 
+	- Are there national politics that revolve around magic/wizards (i.e., trying to outlaw, protect, or promote certain kinds of magic, trying to draft wizards into a ruler’s army, licensing of magicians, etc.)? 
+	- Do wizards have a lobby? 
+	- Do they need one?
+	- Is there tension, rivalry, or outright hostility between any of the actual gods? 
+	- How does this affect church politics? 
+	- People’s everyday lives?
+	- Does the level of technological advancement match the level of social and political advancement?
+	- Is the relative power of a country or ruler usually measured by the size of its army, the number and ability of its wizards, or the amount of money/trade flowing through it?
+	- What are the easiest/most common ways to advance in status — amass more money, marry well, get the ruler’s eye, etc.? 
+	- How much resistance is there to someone advancing in social status?
+	- What are the major political factions at present? 
+	- How long have they been around? 
+	- Which factions are allies, which enemies? 
+	- Are there any potential new forces on the political scene (e.g., a rising middle class, a university gaining unexpected power because of certain magical discoveries, etc.)
+	- What are the controversial political issues of this day/time/country? 
+	- What positions on these issues are considered conservative? 
+	- Liberal? 
+	- Unthinkable?
+	- How much influence do “special interest groups” such as merchants, wizards, or various religions, have on court politics? 
+	- How do they exercise their influence — indirectly (by talking nobility or council members into taking their sides) or directly (by bribery, coercion, having their own representatives on the council)?
+	- Are there any shaky political alliances between disparate groups? 
+	- Why were they formed? 
+	- How long is it likely to be before they fall apart? 
+	- When they do, what will the effects be?
+	- What ancient rivalries and hatreds still affect current attitudes and political positions (examples: Scottish and Welsh separatist groups; Catholics vs. Protestants vs. Muslims; dwarves vs. elves; Hatfields vs. McCoys)?
+	- What kinds of people are likely to face prejudice: dwarves, werewolves, merchants, women, undertakers? 
+	- Is this institutionalized (i.e., a matter of law) or is it mostly a matter of public attitude? 
+	- Is the ruler powerful enough to defy this prejudice and appoint a dwarf as Chief Councilor or Secretary of Defense and make it work?
+	- Who will take over running the government if the current head of state is incapacitated? 
+	- How is this determined? 
+	- Is there an heir apparent (either actual or political)? 
+	- What happens if the heir is a minor?
+	- Are there people who have great influence on government/politics, but who do not hold any official position? 
+	- Who are they? 
+	- Why do they have influence? 
+	- Is this considered a normal thing, or a bad thing?
+- Crime and the Legal System
+	- How has the presence of magic and magicians affected law and government? 
+	- Are wizards barred from certain kinds of government jobs or offices (judge, jury, police)? 
+	- Do some government jobs require that their holder be a wizard?
+	- What are considered normal and legal ways of gathering evidence and determining guilt? 
+	- Is torture allowed? 
+	- Are arbitrary judgments by the lord or landowner allowed, or is there an independent standard of justice?
+	- What personal weapons are available to anyone who can afford them? 
+	- Are some considered “for nobles only” either by custom or by law? 
+	- Are there laws forbidding certain classes from being armed at all? 
+	- Are there laws requiring certain classes to learn particular weapon skills, as England for some centuries required yeomen to be proficient with the longbow?
+	- Is forensic magic possible? 
+	- Commonly used? 
+	- Used only for certain types of crimes (and if so, what)? 
+	- Are the results of forensic spells admissible in court as evidence? 
+	- Is it something any wizard can do, or do you have to specialize?
+	- Are certain spells (as opposed to magic generally) illegal? 
+	- Why — because of the effect of the spell, or because of the ingredients or procedures needed to cast it, or what? 
+	- If so, how would a criminal magician be detected? 
+	- Apprehended? 
+	- Punished? 
+	- Is catching and punishing illegal magicians the responsibility of the magician’s guild, or do the ordinary courts have to handle it?
+	- Are there separate civil and criminal courts? 
+	- Human and non-human courts? 
+	- Is there a separate court or procedure for magical crimes? 
+	- What is different about each type of court? 
+	- Are judges or other court officials required/forbidden to know magic? 
+	- Is evidence obtained by magic acceptable in court? 
+	- Is evidence obtained by magic considered more reliable or less reliable than physical evidence or eyewitness accounts?
+	- What things are considered truly serious crimes and why? (E.g., in a trade-oriented culture, counterfeiting might be a death-penalty crime, while in a place where life is cheap, murder might be something you pay a small fine for.)
+	- What are the normal punishments for serious vs. minor crimes? 
+	- Are there prisons, or are people punished and released? 
+	- Are there degrees of punishment — branding vs. cutting off ears vs. cutting off a hand vs. decapitation — or do they just hang everybody?
+	- Who is responsible for catching criminals? 
+	- Who pays the crook-catchers — the ruler, the city government, a consortium of merchants, somebody else? 
+	- How are they organized — into independent police precincts, or into overlapping districts, or just according to whoever wants to hire them? 
+	- Are they full-time, part-time, or volunteers? 
+	- Private or public? 
+	- What sort of facilities do they have? 
+	- What arms are the allowed to carry?
+	- Are there lawyers or advocates? 
+	- Who can afford them? 
+	- Who trains/certifies them?
+	- Are people guilty until proven innocent, innocent until proven guilty, or does it depend on the mood the lord is in when they bring the case before him?
+	- Are there judges other than the ruler, lord, or landowner? 
+	- If so, how are they chosen, how are they paid, and who pays them? 
+	- Are appeals possible, and if so, to whom? \
+	- How often are outlying areas likely to see a judge? 
+	- Is “mob justice” common or uncommon? 
+	- Approved of or disapproved of?
+	- Are there sumptuary laws regulating what different classes/races may wear? 
+	- Do judges and lawyers wear special clothes (robes, wigs) to indicate their calling?
+	- Are wizards above or below the law — i.e., do they have full rights as citizens, no rights, or can they do as they like without regard to anyone else’s rights?
+	- Are highwaymen, muggers, and pirates common or rare? 
+	- What sorts of crimes is the average citizen likely to run across during his/her lifetime?
+	- Who can make or repeal laws — a group (an elected Senate, an appointed Council, or an hereditary House of Lords), or only the ruler or head of state? 
+	- How much can the nobility, middle class tradesmen, etc. influence the laws that are made?
+	- How are alleged criminals treated before and after their convictions? 
+	- Do the police/military/city guard make a practice of roughing up suspects, or is this frowned upon?
+- Foreign Relations
+	- Does this country have formal relationships with other countries? 
+	- If so, who can be an ambassador? 
+	- Are there standing embassies and consulates, or are special envoys sent only when something comes up?
+	- How are treaties arranged? 
+	- Are there any significant ones currently in force or coming up for signing?
+	- How much do official attitudes toward other countries affect commerce and trade? 
+	- Do merchants pretty much ignore tensions between government as long as they can make a profit, or will this get them into trouble? 
+	- Are there Customs inspectors or their equivalents at border crossings? 
+	- Is the export/import of some technologies/magics/commodities regulated by the government, or by non-governmental cartels? 
+	- How does this affect political relationships between countries?
+	- How much formal spying and intelligence gathering is normally done by governments? 
+	- The military? 
+	- Merchant guilds and wealthy tradesmen? 
+	- Are there actual organizations, or is spying done by diplomats and/or freelance agents? 
+	- How effective is it currently?
+	- Which countries/races are traditional allies? 
+	- Which are traditional rivals? 
+	- How do these traditions affect present-day relations between countries and races?
+	- Which heads of state are related by blood or marriage, and how important is this in determining foreign policy?
+- Waging War
+	- Which peoples/countries/races have been in conflict in the recent past? 
+	- Why? 
+	- When and why was the most recent war? 
+	- Who won? 
+	- Who is still mad about that?
+	- What major weapons of war are available (e.g., siege towers, catapults, cannon, A-bombs)?
+	- How much has the presence of magic affected strategy and tactics in general? 
+	- Do army commanders have unusual formations or techniques to deal with various magical attacks? 
+	- How can magic be used as part of a battle plan, given various levels of technology (example: getting a weather magician to make it rain so that enemy cannons will be harder to maneuver in the mud)?
+	- Is magic used primarily for intelligence gathering (spells of invisibility, scrying, etc.), or are there spells that are of use on the battlefield (summoning a demon to attack the enemy, casting fire storms at them, etc.)? 
+	- If battlefield magic is possible, how can it be defended against?
+	- How are armies usually structured? 
+	- Is there a formal, independent command structure, or is everybody officially under the command of whoever brought them to join the ruler’s army, or what? 
+	- If there is a formal structure, what are the various ranks and titles used?
+	- Is weapon usage restricted according to social class, such as only knights being allowed to use sword and armor, yeomen using bows and staffs, peasants using whatever scythes, hammers, etc. are available? Are there restrictions, either legal, customary, or biological, on the types of weapons different races or magical beings can use (e.g., elves not being able to wield weapons made of cold iron)?
+	- Are battlefield commissions or knighthoods possible during wartime, or must such promotions wait on formal ceremonies? 
+	- Do normal social restrictions apply during times of war, or is everyone equal on the battlefield?
+	- Who can call up men for an army, and how? 
+	- Does the ruler ask the nobility for men, who in turn draft their peasants, or can the ruler go straight to the bottom?
+	- Are there professional soldiers/mercenaries? 
+	- Is a career in the army possible, or would you have to become a mercenary or sell-sword in order to make a living as a soldier? 
+	- Does the army accept volunteers, or only draftees? 
+	- Can you rise to officer level by displaying courage and merit on the battlefield, or are officer positions reserved for a particular type of person only — people who bought commissions, people who graduated from military school, sons of famous warriors, etc.?
+	- How large is a typical army? 
+	- What percentage of the soldiers in it will be trained (knights, professional soldiers, guards, mercenaries) and what percentage will be untrained recruits? 
+	- Are recruits given training, or are they expected to learn on the job (i.e., in battle)?
+	- How is the army supplied? 
+	- Are soldiers allowed to live off the peasantry, or do they pay for what they take? 
+	- What happens if the supply caravan gets lost or captured? 
+	- How are supplies handled during long campaigns? 
+	- How many days’ worth of supplies can the army haul along with them? (Ref. Alexander the Great and the Logistics of the Macedonian Army for the math on how much a horse can carry, how much it needs to eat, etc.)
+	- What are the accepted conventions of making war (e.g., only fight in winter when nobody is busy with crops; don’t make war on civilians; only certain kinds of weapons are available, etc.)? 
+	- Do they differ from race to race?
+	- How does the presence of non-humans (dwarves, vampires, etc.) affect strategy, tactics, and battles generally? 
+	- Are special weapons required if an army is facing certain kinds of non-human armies? 
+	- How could non-human soldiers turn their physical differences from humans to their advantage?
+	- Are particular non-human races traditionally better with certain weapons (e.g., dwarves with axes, elves with bows)? 
+	- Why — because they have greater strength, better eyesight, more manual dexterity, etc.?
+	- Do relations between countries depend mainly on the relations between the heads of state, or can two rulers hate each other’s guts without being able to just declare war and drag their countries into it?
+	- If there’s a long-term war in progress, how has the home front been affected? 
+	- Are people being drafted much younger/older than they used to be? 
+	- Have people been forced to step into nontraditional roles — peasants managing a business, women shoeing horses, children making bullets, etc.? 
+	- How have these changes affected society? 
+	- How will they affect relationships between races/clans/sexes/social classes when the war is over?
+	- Is the army integrated (i.e., men, women, elves, dwarves, purple people, and green ones, all serving together)? 
+	- How does this affect battle formations? 
+	- Strategies? 
+	- Are certain races or groups isolated in particular units? 
+	- If so, are those units considered elite troops or the most expendable soldiers on the battlefield? 
+	- How do these attitudes affect strategy?
+	- Has science or magic been advanced in general by specific developments in the fields of weaponry, tactics, or strategy?
+	- Are there natural or imposed limitations prohibiting the development or use of certain types of weapons (e.g., only muscle-powered weapons because the “laws of physics” in this world don’t allow the combustion of gunpowder)?
+	- To what degree has technology changed the face of war? 
+	- Are there internal combustion engines useable for large troop movements, or steam powered ships?
+- Weapons
+	- How do the weapons of this country compare with those of surrounding cities and countries? 
+	- Have there been recent innovations that may upset the balance of power, or is everyone more or less equal?
+	- Are magical weapons available? 
+	- Can magic be used in warfare? 
+	- In what ways? 
+	- Are spells fast enough to be useful in hand-to-hand combat, or is magic more of a siege weapon, used only for long, slow things?
+	- How has the presence of magic affected weapons technology? 
+	- Can magic make weapons more effective? 
+	- Do you have to do anything special to walls, armor, or weapons to make them better able to resist enemy spells?
+	- How much has the presence of magic affected strategy and tactics in general? 
+	- Is magic used primarily for intelligence gathering (spells of invisibility, scrying, etc.), or are there spells that are of use on the battlefield (summoning a demon to attack the enemy, casting fire storms at them, etc.)? If battlefield magic is possible, how can it be defended against?
+	- How has the presence of magic affected weapons technology? 
+	- Can an ordinary, non-weapon-type object be enchanted to make it extremely lethal (the Frying Pan of Death) or will this work properly only on things that are already weapons? 
+	- Can ordinary objects be enchanted to make them (or their user) supremely good at something (the Frying Pan of Ultimate Gourmet Cooking, the Comb of No Bad Hair Days Ever)? 
+	- How common and useful are such enchantments?
+	- What personal weapons are available to anyone who can afford them? 
+	- Are some considered “for nobles only” either by custom or by law? 
+	- Are there laws forbidding certain classes from being armed at all?
+	- What is the level of weapons technology? 
+	- Are there guns, and if so, how sophisticated (flintlock, matchlock, rifle, Uzi)?
+	- What major weapons of war are available (e.g., siege towers, catapults, cannon, A-bombs)?
+	- What weapons and armor are standard for armies? 
+	- Mercenaries? 
+	- Nobility? 
+	- Your average peasant trying to defend his/her home?
+	- Are weapons, such as swords or pistols, a standard part of dress for any/all segments of society?
+	- What are the accepted conventions of making war (e.g., only fight in winter when nobody is busy with crops; don’t make war on civilians; only certain kinds of weapons are available, etc.)?

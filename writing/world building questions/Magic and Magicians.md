@@ -1,0 +1,227 @@
+Worldbuilding Questions: Magic and Magicians
+- Rules of Magic
+	- What things can magic not do? 
+	- What are the limits to magical power? 
+	- How do magicians try to get around these limits?
+	- What is the price magicians must pay in order to be magicians — years of study, permanent celibacy, using up bits of their life or memory with each spell, etc.? 
+	- Does anyone ever try to get around the price of magic?
+	- Is there a difference between miracles and magic? 
+	- If so, how are they distinguished?
+	- Where does magic power come from: the gods, the “mana” of the world, the personal willpower of the magician? 
+	- Is magic an exhaustible resource? 
+	- If a magician must feed his spells with his own willpower, life-force, or sanity, what long-term effects will this have on the health and/or stability of the magician? 
+	- Do different races/species have different sources for their magic, or does everybody use the same one?
+	- How does a magician tap his/her magic power? 
+	- Does becoming a magician require some rite of passage (investing one’s power in an object, being chosen by the gods, constructing or being given a permanent link to the source of power) or does it just happen naturally, as a gradual result of much study or as a part of growing up?
+	- What do you need to do to cast a spell — design an elaborate ritual, recite poetry, mix the right ingredients in a pot? 
+	- Are there things like a staff, a wand, a familiar, a crystal ball, that are necessary to have before casting spells? 
+	- If so, where and how do new wizards get these things? 
+	- Do they make them, buy them from craftsmen, inherit them from their teachers, or order them from Wizardry Supplies, Inc.?
+	- Is there a numerical limit to the number of wizards in the world? 
+	- What is it? 
+	- Why?
+	- How long does it take to cast a spell? 
+	- Can spells be stored for later, instant use? 
+	- Does working spells take lots of long ritual, or is magic a “point and shoot” affair?
+	- Can two or more wizards combine their power to cast a stronger spell, or is magic done only by individuals? 
+	- What makes one wizard more powerful than another — knowledge of more spells, ability to handle greater levels of power, having a more powerful god as patron, etc.?
+	- Does practicing magic have any detrimental effect on the magician (such as becoming addictive, fomenting insanity, or shortening life-span)? 
+	- If so, is there any way to prevent these effects? 
+	- Are the effects inevitable to all magicians, or do they affect only those with some sort of predisposition? 
+	- Do they progress at the same rate in everyone? 
+	- Are they universal in all species, or are some races (dwarves, elves, whoever) immune to these detrimental effects?
+	- How much is known about the laws of nature, physics, and magic? 
+	- How much of what is commonly known is wrong (e.g., Aristotle’s ideas about human anatomy, which were wrong but accepted for centuries)?
+	- What general varieties of magic are practiced (e.g., herbal potions, ritual magic, alchemical magic, demonology, necromancy, etc.)? 
+	- Do any work better than others, or does only one variety actually work?
+	- Are certain kinds of magic practiced solely or chiefly by one sex or the other? 
+	- By one race or another? 
+	- Is this because of inborn ability, natural preferences, or legislation?
+	- Does a magician’s magical ability or power change over time — e.g., growing stronger or weaker during puberty, or with increasing age? 
+	- Can a magician “use up” all of his/her magic, thus ceasing to be a magician? 
+	- If this happens, what does the ex-magician do — die, retire, take up teaching, go into a second career, start a freelance consulting business?
+	- Can the ability to do magic be lost? 
+	- If so, how — overdoing it, “burning out,” brain damage due to fever or a blow, etc.?
+	- Can the ability to work magic be taken away? 
+	- If so, how and by whom? (Traditional example: certain spells that can only be worked by virgins; raping such a witch robbed her of her powers.)
+- Wizards
+	- Does practicing magic have any detrimental effect on the magician (such as becoming addictive, fomenting insanity, or shortening life-span)? 
+	- If so, is there any way to prevent these effects? 
+	- Are the effects inevitable to all magicians, or do they affect only those with some sort of predisposition? 
+	- Do they progress at the same rate in everyone? 
+	- Are they universal in all species, or are some races (dwarves, elves, whoever) immune to these detrimental effects?
+	- What is the price magicians must pay in order to be magicians — years of study, permanent celibacy, using up bits of their life or memory with each spell, etc.? 
+	- Does anyone ever try to get around the price of magic?
+	- How do various religions,if any, view magic? 
+	- Do any forbid it? 
+	- Why or why not? 
+	- Do any require priests/priestesses to be magicians? 
+	- Do any forbid magicians from holding some or all religious offices?
+	- How long does it take to learn magic?
+	- Is magic a profession, an art, or just a job? 
+	- What is the status accorded to magicians in this society? 
+	- Are they the equivalent of shyster lawyers, politicians, and used car salesmen, or are they considered average working stiffs, or are they looked up to and admired?
+	- Are wizards organized? 
+	- How? 
+	- What hierarchy, if any, do they recognize? 
+	- What happens if the person/people at the top get killed? 
+	- Who takes over? 
+	- How soon?
+	- Can anyone become a wizard, or does one need to be born with some special talent or gift?
+	- Are different races/intelligent species good at different types of magic? 
+	- If so, what types are associated with what races/species? 
+	- Are there species that use magic more or less unconsciously — for instance, dragons using magic to fly without being consciously aware of it, or werewolves using magic to change?
+	- Can you make a living practicing magic, or do you have to have independent means? 
+	- If you can make a living, what are you doing — making magic swords, or making it rain for local farmers? 
+	- What’s a wizard’s job market like? 
+	- What’s a wizard’s average income, relative to the rest of society?
+	- Are magicians a force in politics, or are they above it? \
+	- Are there national politics that revolve around magic/wizards (i.e., trying to outlaw, protect, or promote certain kinds of magic, trying to draft wizards into a ruler’s army, licensing of magicians, etc.)? 
+	- Do wizards have a lobby? 
+	- Do they need one?
+	- Does it require a license to be a wizard? 
+	- If so, is it more like a driver’s license (something nearly everyone in our culture gets upon coming of age) or like a doctor’s license (something only a small percentage of the population will ever get)? 
+	- Who certifies wizards: government, wizard’s guild/AMA, local priests?
+	- How do local people view wizards? 
+	- Are they good guys, bad guys, Clint Eastwood (call in only to get rid of dragons), regular working stiffs, ivory-tower academics, nuisances who make it rain when you’re plowing, dangerous folks to stay away from?
+	- How do you get to be a wizard/magician? 
+	- Does it require inborn talent, study and hard work, practice, or all of the above?
+	- Are wizards barred from certain kinds of government jobs or offices? 
+	- Do some government jobs require that their holder be a wizard?
+	- If magic requires study, where do you go to learn about it? 
+	- How do people fund their training? 
+	- Is there an apprenticeship system, or are there wizard schools, or is it one-on-one tutoring/mentoring? 
+	- Is an untrained wizard dangerous, or just an ordinary person?
+	- Do wizards have a special language that is used for magic? 
+	- If so, where do they learn it? 
+	- Is it safe to chat in this language, or is everything said in it automatically a spell? 
+	- If so, how can it safely be taught to new students?
+	- Is magic considered a science, or are scientists and wizards enemies or rivals? 
+	- Are magic and science compatible? 
+	- To what degree does the presence of magic, magical objects, and wizards replace technology (for example, a chest that is enchanted to keep its contents cold could replace the refrigerator)? 
+	- Duplicate technology? 
+	- Supplement technology?
+	- Are wizards above or below the law — I.e., do they have full rights as citizens, no rights, or can they do as they like without regard to anyone else’s rights?
+	- Is the relative power of a country or ruler usually measured by the size of the army, the number and ability of his wizards, or the amount of money at his disposal?
+	- Can two or more wizards combine their power to cast a stronger spell, or is magic done only by individuals? 
+	- What makes a powerful magician?
+	- What do you need to do to cast a spell — design an elaborate ritual, recite poetry, mix the right ingredients in a pot? 
+	- Are there things like a staff, a wand, a familiar, a crystal ball, that are necessary to have before casting spells? 
+	- If so, where and how do new wizards get these things? 
+	- Do they make them, buy them from craftsmen, inherit them from their teachers, or order them from Wizardry Supplies, Inc.?
+	- Where does magic power come from: the gods, the “mana” of the world, the personal willpower of the magician? 
+	- Is magic an exhaustible resource? 
+	- If a magician must feed his spells with his own willpower, life-force, or sanity, what long-term effects will this have on the health and/or stability of the magician? 
+	- Do different races/species have different sources for their magic, or does everybody use the same one?
+	- How does a magician tap his/her magic power? 
+	- Does becoming a magician require some rite of passage (investing one’s power in an object, being chosen by the gods, constructing or being given a permanent link to the source of power) or does it just happen naturally as part of growing up, like puberty?
+	- Does a magician’s magical ability or power change over time — e.g., growing stronger or weaker during puberty, or with increasing age? 
+	- Can a magician “use up” all of his/her magic, thus ceasing to be a magician? 
+	- If this happens, what does the ex-magician do — die, retire, take up teaching, go into a second career, start a freelance consulting business?
+	- Is a magician’s lifetime normally longer or shorter than average? 
+	- Why? 
+	- Does this vary for different races/species? 
+	- Are there races/species all of whose members are magicians?
+	- Are there fashions/fads in magic — are herbal spells “in” this year and ritual spells “out,” or vice versa?
+	- Are certain spells (as opposed to magic generally) illegal? 
+	- Why — because of the effect of the spell, or because of the ingredients or procedures needed to cast it, or what? 
+	- If so, how would a criminal magician be detected? 
+	- Apprehended? 
+	- Punished? 
+	- Is catching and punishing illegal magicians the responsibility of the magician’s guild, or do the ordinary courts have to handle it?
+	- Magic and Technology
+	- Are there magical means of transportation (teleport spells, magic carpets, dragon-riding)? 
+	- How do they compare in speed, safety and expense to non-magical means? 
+	- Are there any drawbacks to magical travel (for example, teleport sickness)? 
+	- How commonly are they used, and for what purposes (industrial shipping vs. travel for fun)?
+	- Are there magical means of rapid communication? 
+	- How commonly are they used? 
+	- For what purposes?
+	- Are magical weapons available? 
+	- Can magic be used in warfare? 
+	- In what ways? 
+	- Are spells fast enough to be useful in hand-to-hand combat, or is magic more of a siege weapon, used only for long, slow things?
+	- How has the presence of magic affected weapons technology? 
+	- Can magic make weapons more effective? 
+	- Do you have to do anything special to walls, armor, or weapons to make them better able to resist enemy spells?
+	- How has the presence of magic affected weapons technology? 
+	- Can an ordinary, non-weapon-type object be enchanted to make it extremely lethal (the Frying Pan of Death) or will this work properly only on things that are already weapons? 
+	- Can ordinary objects be enchanted to make them (or their user) supremely good at something (the Frying Pan of Ultimate Gourmet Cooking, the Comb of No Bad Hair Days Ever)? 
+	- How common and useful are such enchantments?
+	- To what degree does the presence of magic, magical objects, and wizards replace technology (for example, a chest that is enchanted to keep its contents cold could replace the refrigerator)? 
+	- Duplicate technology? 
+	- Supplement technology?
+	- Can spells and/or magical items be mass-produced? 
+	- Are there magic carpet factories and boutiques selling magic rings?
+	- Can spells and/or magical items be used to increase the efficiency of manufacturing or mass production? 
+	- Do businesses keep a wizard on retainer, as modern businesses might keep a lawyer or efficiency expert? 
+	- What, exactly, are they paying for?
+- Miscellaneous Magic Questions
+	- Are the laws of nature and physics actually different in this world (to accommodate magic), or are they the same as in real life? 
+	- How does magic fit in? 
+	- How do magical beasts fit in?
+	- If there are imaginary animals (dragons, unicorns, etc.), how do they fit into the ecology? 
+	- What do they eat? 
+	- How much habitat do they require? 
+	- Are they intelligent and/or capable of working spells, talking, etc.?
+	- Where did civilization begin? 
+	- What directions did it spread? 
+	- How was its development affected by the presence of magic? 
+	- The presence of non-human races, if any? 
+	- The direct or indirect action of the gods?
+	- In what ways can magic or spells be abused? 
+	- How often does this happen?
+	- Which peoples/races/cultures are considered the most civilized? 
+	- Which are most technologically advanced? 
+	- Which are most magically advanced? 
+	- Least advanced?
+	- Is magic legal? 
+	- All magic, or only some types? 
+	- Do laws vary widely from country to country, or is the attitude generally similar?
+	- What wild animals, actual or imaginary, live in this area? 
+	- Are any of them potentially useful — e.g., for fur, whale oil, hides, magical ingredients, hat feathers?
+	- Are there magical beasts, like dragons and unicorns? 
+	- If so, which ones? 
+	- How many? 
+	- Are they common, or are some endangered species? 
+	- Have any been domesticated?
+	- Are there magical artifacts (rings, swords, etc.)? 
+	- If so, who makes them and how? 
+	- Are the spells permanent, or do they wear off after a while?
+	- Where is scientific and/or magical research done — universities, private labs, under the auspices of the ruler/government, etc.?
+	- Given the magical/technological level of this society, what is an appropriate ration of farmers or food producers to urban residents? 
+	- If farm production is based on magic, how many urban residents are going to starve if the spells supporting farming (weather, land fertility, etc.) fail suddenly?
+	- What are the major political factions at present? 
+	- How long have they been around? 
+	- Which factions are allies, which enemies? 
+	- Are there any potential new forces on the political scene (e.g., a rising middle class, a university gaining unexpected power because of certain magical discoveries, etc.)
+	- Are magicians a force in politics, or are they above it? 
+	- Are there national politics that revolve around magic/wizards (i.e., trying to outlaw, protect, or promote certain kinds of magic, trying to draft wizards into a ruler’s army, licensing of magicians, etc.)? 
+	- Do wizards have a lobby? 
+	- Do they need one?
+	- How much has the presence of magic affected strategy and tactics in general? 
+	- Is magic used primarily for intelligence gathering (spells of invisibility, scrying, etc.), or are there spells that are of use on the battlefield (summoning a demon to attack the enemy, casting fire storms at them, etc.)? 
+	- If battlefield magic is possible, how can it be defended against?
+	- Is healing generally a magical process? 
+	- If so, how does the magical healing talent work? Does a magical healer have to consciously direct the healing process (meaning that lots of knowledge of anatomy, etc., would be required), or does magical healing simply speed up the normal, unconscious healing process in the patient? 
+	- Is there more than one kind of magical healer (as there are surgeons, eye doctors, etc.)? 
+	- Are there both magical and non-magical healers, and if so, are they rivals or simply different specialties?
+	- What level is medicine at? 
+	- Who are the healers? 
+	- Do you have to have a talent to heal, or just training? 
+	- Who trains healers, herbalists, apothecaries, surgeons, magical vs. nonmagical healers, etc.?
+	- Is forensic magic possible? 
+	- Commonly used? 
+	- Used only for certain types of crimes (and if so, what)? 
+	- Are the results of forensic spells admissible in court as evidence? 
+	- Is it something any wizard can do, or do you have to specialize?
+	- Are there separate civil and criminal courts? 
+	- Human and non-human courts? 
+	- Is there a separate court or procedure for magical crimes? 
+	- What is different about each type of court? 
+	- Are judges or other court officials required/forbidden to know magic? 
+	- Is evidence obtained by magic acceptable in court? 
+	- Is evidence obtained by magic considered more reliable or less reliable than physical evidence or eyewitness accounts?
+	- Can magic be used in the arts, and if so, how — paint that glows, pictures that move, flutes that play themselves, etc.? 
+	- How do “normal” artists feel about this? 
+	- Is there a separate branch of purely magical art, such as illusion?
