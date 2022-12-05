@@ -29,3 +29,9 @@ pyrrhic noun:pyr·​rhic ˈpir-ik : a metrical foot consisting of two short or 
    also : costly to the point of negating or outweighing expected benefits
 
 Deucedly (DOO-sid-lee)  adverb German, 17th century Definition: Quite; extremely; utterly.
+
+Prolepsis pro-LEP-sis noun Ancient Greek, 15th century Definition: The anticipation and answering of possible objections in rhetorical speech.
+
+Writhen RITH-ən adjective Old English, 14th century Definition: (Literary) Twisted or contorted out of normal shape or form.
+
+Vedette və-DET noun French, 17th century Definition: (Historical) A mounted sentry positioned beyond an army's outposts to observe the movements of the enemy.
