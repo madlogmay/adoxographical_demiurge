@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSR/dnd 5e ability scores.md",
+                "file": "daily/2022-12-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "OSR/dnd 5e ability scores.md",
+            "file": "daily/2022-12-05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "OSR/dnd 5e ability scores.md",
+            "file": "daily/2022-12-05.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "OSR/dnd 5e ability scores.md"
+            "file": "daily/2022-12-05.md"
           }
         }
       }
@@ -124,15 +124,15 @@
   },
   "active": "34997d759aabbb22",
   "lastOpenFiles": [
+    "Start.md",
+    "daily/2022-12-05.md",
+    "daily/2022-12-04.md",
+    "OSR/dnd 5e ability scores.md",
     "OSR/new ability score system.md",
     "OSR/ability_scores.md",
     "OSR/Big Skill List.md",
     "OSR/OSR_TTRPG_Build.md",
     "WIP/wip metadata.md",
-    "WIP/wip characters.md",
-    "WIP/Amnesiac Socialite.md",
-    "daily/2022-12-04.md",
-    "daily/2022-12-02.md",
-    "daily/2022-11-30.md"
+    "WIP/wip characters.md"
   ]
 }
