@@ -4,7 +4,7 @@ theme:
     name: 'material'
     palette:
     icon:
-       logo: :material-typewriter:
+       logo: material-typewriter
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
