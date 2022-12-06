@@ -4,7 +4,7 @@ theme:
     name: material
     icon:
        logo: material/typewriter
-    favicon: material/typewriter
+    favicon: img/typewriter.svg
     palette:
 
     # Light mode
@@ -28,11 +28,11 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
+  - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.details
   # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -42,6 +42,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - admonition
+
 
   - toc:
       permalink: true
