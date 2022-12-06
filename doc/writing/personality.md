@@ -1,4 +1,3 @@
-:: Personality Words
 # Personality Words
 
 Mood Words
