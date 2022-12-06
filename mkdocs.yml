@@ -2,8 +2,8 @@ site_name: The Adoxographical Demiurge
 
 theme:
     name: material
-    palette:
     logo: img/logo.bmp
+    palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
