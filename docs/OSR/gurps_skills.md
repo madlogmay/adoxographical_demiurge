@@ -1,32 +1,6 @@
-- Animal
-- Arts/Entertainment
-- Athletic
-- Business
-- Combat/Weapon
-- Melee Combat
-- Ranged Combat
-- Craft
-- Criminal/Street
-- Design/Invention
-- Esoteric
-- Everyman
-- Knowledge
-- Medical
-- Military
-- Natural Sciences
-- Occult/Magical
-- Outdoor/Exploration
-- Plant
-- Police
-- Repair/Maintenance
-- Scholarly
-- Social
-- Social Sciences/Humanities
-- Spy
-- Technical
-- Vehicle
+# Gurps Skills
 
-- Animal Skill
+## Animal Skill
 - Animal Handling
 - Falconry
 - Mimicry (Animal Sounds)
@@ -38,7 +12,7 @@
 - Teamster
 - Veterinary
 
-- Arts/Entertainment Skill
+## Arts/Entertainment Skill
 - Artist
 - Connoisseur
 - Current Affairs (High Culture)
@@ -82,7 +56,7 @@
 - Swimming
 - Throwing
 
-- Business Skill
+## Business Skill
 - Accounting
 - Administration
 - Current Affairs (Business)
@@ -97,7 +71,7 @@
 - Public Speaking
 - Savoir-Faire (High Society)
 
-- Combat/Weapon skills
+## Combat/Weapon skills
 - Melee Combat Skill
 - Axe/Mace
 - Boxing
@@ -135,7 +109,7 @@
 - Whip
 - Wrestling
 
-- Ranged Combat Skill
+## Ranged Combat Skill
 - Artillery
 - Beam Weapons
 - Blowpipe
@@ -155,7 +129,7 @@
 - Throwing Art
 - Thrown Weapon
 
-- Craft Skill
+## Craft Skill
 - Artist (Pottery)
 - Artist (Sculpting)
 - Artist (Woodworking)
@@ -166,7 +140,7 @@
 - Masonry
 - Smith
 
-- Criminal/Street Skill
+## Criminal/Street Skill
 - Carousing
 - Climbing
 - Computer Hacking
@@ -197,7 +171,7 @@
 - Traps
 - Urban Survival
 
-- Design/Invention Skill
+## Design/Invention Skill
 - Architecture
 - BioengineeringTL
 - Computer Programming
@@ -205,7 +179,7 @@
 - Pharmacy
 - Weird Science
 
-- Esoteric Skill
+## Esoteric Skill
 - Autohypnosis
 - Blind Fighting
 - Body Control
@@ -232,7 +206,7 @@
 - Throwing Art
 - Zen Archery
 
-- Everyman Skill
+## Everyman Skill
 - Area Knowledge
 - Computer Operation
 - Cooking
@@ -243,7 +217,7 @@
 - Typing
 - Weather Sense
 
-- Knowledge Skill
+## Knowledge Skill
 - Area Knowledge
 - Connoisseur
 - Current Affairs
@@ -254,7 +228,7 @@
 - Professional Skill
 - Savoir-Faire
 
-- Medical Skill
+## Medical Skill
 - Diagnosis
 - Electronics Operation (Medical)
 - Esoteric Medicine
@@ -268,7 +242,7 @@
 - Surgery
 - Veterinary
 
-- Military Skill
+## Military Skill
 - Armoury
 - Brain Hacking
 - Brainwashing
@@ -293,7 +267,7 @@
 - Tactics
 - Traps
 
-- Natural Sciences Skill
+## Natural Sciences Skill
 - Alchemy
 - Astronomy
 - Biology
@@ -310,7 +284,7 @@
 - Physics
 - Physiology
 
-- Occult/Magical Skill
+## Occult/Magical Skill
 - Alchemy
 - Exorcism
 - Expert Skill (Psionics)
@@ -324,7 +298,7 @@
 - Symbol Drawing
 - Thaumatology
 
-- Outdoor/Exploration Skill
+## Outdoor/Exploration Skill
 - Camouflage
 - Cartography
 - Climbing
@@ -343,7 +317,7 @@
 - Tracking
 - Weather Sense
 
-- Plant Skill
+## Plant Skill
 - Biology
 - Farming
 - Gardening
@@ -352,7 +326,7 @@
 - Paleontology (Paleobotany)
 - Pharmacy (Herbal)
 
-- Police Skill
+## Police Skill
 - Body Language
 - Criminology
 - Detect Lies
@@ -375,7 +349,7 @@
 - Tactics
 - Urban Survival
 
-- Repair/Maintenance Skill
+## Repair/Maintenance Skill
 - Armoury
 - Electrician
 - Electronics Repair
@@ -383,7 +357,7 @@
 - Machinist
 - Mechanic
 
-- Scholarly Skill
+## Scholarly Skill
 - Computer Operation
 - Expert Skill
 - Literature
@@ -394,7 +368,7 @@
 - Typing
 - Writing
 
-- Social Skill
+## Social Skill
 - Acting
 - Administration
 - Body Language
@@ -421,7 +395,7 @@
 - Streetwise
 - Teaching
 
-- Social Sciences/Humanities Skill
+## Social Sciences/Humanities Skill
 - Anthropology
 - Archaeology
 - Cartography
@@ -442,7 +416,7 @@
 - Sociology
 - Theology
 
-- Spy Skill
+## Spy Skill
 - Acting
 - Body Language
 - Brain Hacking
@@ -475,7 +449,7 @@
 - Smuggling
 - Stealth
 
-- Technical Skill
+## Technical Skill
 - Battlesuit
 - Computer Operation
 - Diving Suit
@@ -491,7 +465,7 @@
 - Scuba
 - Vacc Suit
 
-- Vehicle Skill
+## Vehicle Skill
 - Airshipman
 - Battlesuit
 - Bicycling
