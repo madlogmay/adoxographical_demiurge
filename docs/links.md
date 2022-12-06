@@ -61,3 +61,9 @@
 - <a href="https://outschool.com/teach#abksrjs4u3">https://outschool.com/teach#abksrjs4u3</a>
 - <a href="http://www.nappertime.com/dungeons-dragons-gaming-autism/">http://www.nappertime.com/dungeons-dragons-gaming-autism/</a>
 - <a href="https://w3.rpgresearch.com/">https://w3.rpgresearch.com/</a>
+- https://www.darkshire.net/jhkim/rpg/systemdesign/
+- https://rpg.stackexchange.com/questions/20107/common-dice-mechanics
+- https://medium.com/ironsource-levelup/secret-power-of-rpg-mechanics-b618c09556d8
+- https://mythcreants.com/blog/six-fantastic-roleplaying-mechanics/
+- ourproject.org
+- shopmoment.com
