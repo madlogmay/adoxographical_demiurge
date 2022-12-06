@@ -1,4 +1,3 @@
-:: Character Drives
 # Character Drives
 - Accord: Find virtue in others not of your own kind
 - Antiquity: Acquire something old, lost, or magical
