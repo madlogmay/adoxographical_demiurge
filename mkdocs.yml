@@ -4,7 +4,7 @@ theme:
     name: material
     icon:
        logo: material/typewriter
-    favicon: img/typewriter.svg
+    favicon: img/typewriter.png
     palette:
 
     # Light mode
