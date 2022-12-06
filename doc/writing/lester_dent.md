@@ -1,4 +1,3 @@
-:: The Lester Dent Pulp Paper
 # The Lester Dent Pulp Paper
 
 Master Fiction Plot
