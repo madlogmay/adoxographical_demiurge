@@ -2,7 +2,8 @@ site_name: The Adoxographical Demiurge
 
 theme:
     name: material
-    logo: img/logo.bmp
+    icon:
+       logo: material/typewriter
     palette:
 
     # Light mode
