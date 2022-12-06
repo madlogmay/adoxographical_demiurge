@@ -1,4 +1,3 @@
-:: Cool Words
 # Cool Words
 Phrontistery (FRAHN-tə-ster-ee) noun: Ancient Greek, 17th century Definition: A place for thinking.
 
