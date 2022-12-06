@@ -2,9 +2,9 @@ site_name: The Adoxographical Demiurge
 
 theme:
     name: material
+    favicon: img/favicon.png
     icon:
        logo: material/typewriter
-    favicon: img/typewriter_blk.png
     palette:
 
     # Light mode
