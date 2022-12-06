@@ -1,4 +1,3 @@
-:: Worldbuilding Questions
 # Worldbuilding Questions
 The World
 - Basics
