@@ -1,4 +1,3 @@
-:: Writing Stuff
 # Writing Stuff
 Characters
 PC
