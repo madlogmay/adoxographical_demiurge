@@ -3,6 +3,8 @@ site_name: The Adoxographical Demiurge
 theme:
     features:
     - navigation.tabs
+    font:
+    - Cormorant Garamond
     name: material
     favicon: img/favicon.png
     icon:
