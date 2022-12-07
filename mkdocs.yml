@@ -1,6 +1,8 @@
 site_name: The Adoxographical Demiurge
 
 theme:
+features:
+    - navigation.tabs
     name: material
     favicon: img/favicon.png
     icon:
@@ -75,6 +77,3 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
-
-features:
-    - navigation.tabs
