@@ -1,6 +1,7 @@
 # Media To Ingest
 
 === "Books To Read"
+
   ```
   - Ghost of belfast
   - Insomnia by jr johansen
@@ -14,15 +15,43 @@
   - A history of warfare by John Keegan
   - Dramtica: A new theory of Story by Melanie Anne Phillips and Chris Huntley
    ```
+
 === "Movies To Watch"
+
   ```
   - Maltese Falcon
   ```
+
 === "Video Games To Play"
+
   ```
   - Potion Permit
   ```
+
 === "## Music To Listen To"
+
   ```
   - Currently Empty
   ```
+
+=== "C"
+
+    ``` c
+    #include <stdio.h>
+
+    int main(void) {
+      printf("Hello world!\n");
+      return 0;
+    }
+    ```
+
+=== "C++"
+
+    ``` c++
+    #include <iostream>
+
+    int main(void) {
+      std::cout << "Hello world!" << std::endl;
+      return 0;
+    }
+    ```
