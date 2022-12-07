@@ -1,7 +1,7 @@
 site_name: The Adoxographical Demiurge
 
 theme:
-features:
+    features:
     - navigation.tabs
     name: material
     favicon: img/favicon.png
