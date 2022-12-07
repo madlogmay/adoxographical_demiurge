@@ -1,31 +1,15 @@
 # Welcome
 
-??? info inline end "What does that name mean?"
+??? info inline end "What does the site's name even mean?"
     
     **Adoxographical** (noun, rhetoric)  Of or pertaining to fine writing on a minor or trivial subject.
 
     **Demiurge** (noun, figuratively) Something (such as an idea, individual or institution) conceived as an autonomous creative force or decisive power.
         
+Something witty and interesting to make this page make sense to someone who isn't me and thus won't understand what this whole thing is really for even though it really isn't for anyone else besides me and my insanely frenetic brain...
+
 === "About"
     This is a test area
 
 === "not About"
     This is another test
-
-??? info inline end
-    Yet another test
-    Go Figure
-    Because I want to make sure it all works
-    Why are you asking?
-
-!!! note "Phasellus posuere in sem ut cursus"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
