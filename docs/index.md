@@ -1,8 +1,9 @@
-# The Adoxographical Demiurge
+# Welcome
 
-**Adoxographical** (noun, rhetoric)  Of or pertaining to fine writing on a minor or trivial subject.
+??? info inline end "What does that name mean?"\
+    **Adoxographical** (noun, rhetoric)  Of or pertaining to fine writing on a minor or trivial subject.
 
-**Demiurge** (noun, figuratively) Something (such as an idea, individual or institution) conceived as an autonomous creative force or decisive power.
+    **Demiurge** (noun, figuratively) Something (such as an idea, individual or institution) conceived as an autonomous creative force or decisive power.
 
 === "About"
     This is a test area
