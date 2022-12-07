@@ -50,3 +50,6 @@
 - [ ] Svelte (code)
 - [ ] Shadowdark RPG OSR
 - [ ] Tesla Punk
+- [ ] Javascript based ai/ml
+- [ ] Stackblitz (code)
+- [ ] 
