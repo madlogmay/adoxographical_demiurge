@@ -36,3 +36,7 @@ Writhen RITH-ən adjective Old English, 14th century Definition: (Literary) Twis
 Vedette və-DET noun French, 17th century Definition: (Historical) A mounted sentry positioned beyond an army's outposts to observe the movements of the enemy.
 
 Ingeminate in-JEM-ə-neyt Latin, 16th century Definition: Repeat or reiterate (a word or statement), typically for emphasis.
+
+Dunnage noun A person's belongings, especially those brought aboard ship
+
+Inconnu noun an unknown person or thing
