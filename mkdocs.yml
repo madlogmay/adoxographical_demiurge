@@ -24,6 +24,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+  features:
+    - navigation.tabs
 
 # Extensions
 markdown_extensions:
@@ -68,7 +70,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
   - mermaid2
 
 extra_javascript:
