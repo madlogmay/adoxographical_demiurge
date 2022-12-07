@@ -4,7 +4,7 @@ theme:
     features:
     - navigation.tabs
     font:
-    - Cormorant Garamond
+    - Cormorant
     name: material
     favicon: img/favicon.png
     icon:
