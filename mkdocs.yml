@@ -5,6 +5,7 @@ theme:
     - navigation.tabs
     font:
        text: Cormorant Garamond
+       code: Red Hat Mono
     name: material
     favicon: img/favicon.png
     icon:
