@@ -34,3 +34,5 @@ Prolepsis pro-LEP-sis noun Ancient Greek, 15th century Definition: The anticipat
 Writhen RITH-ən adjective Old English, 14th century Definition: (Literary) Twisted or contorted out of normal shape or form.
 
 Vedette və-DET noun French, 17th century Definition: (Historical) A mounted sentry positioned beyond an army's outposts to observe the movements of the enemy.
+
+Ingeminate in-JEM-ə-neyt Latin, 16th century Definition: Repeat or reiterate (a word or statement), typically for emphasis.
