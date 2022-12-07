@@ -1,53 +1,52 @@
 # Things To Research
 
-[ ] Python based ai/ml
-[ ] Voice to text
-[ ] Ocham's razor
-[ ] Oral storytelling
-[ ] Hat pitch
-[ ] Personalized fidget coin
-[ ] Dice Mechanics
-[ ] Where to have chapbooks printed and bound?
-[ ] How to code a process like rocketbook that uses ai/ml to learn my handwriting and get better over time
-[ ] Ars Noteria
-[ ] Ars Goetia
-[ ] Ars Theugia Goetia
-[ ] Ars Paulina
-[ ] Ars Almaled
-[ ] Stable Diffusion
-[ ] 7-8 heads tall
-[ ] Magnetic Connectors
-[ ] Bell-a-poc Period
-[ ] Gilded Age
-[ ] 3d printers
-[ ] CNC
-[ ] Sensory Dep Tanks
-[ ] Metahuman Unreal Engine
-[ ] Artbreeder
-[ ] Unity
-[ ] Combat/Discovery/Intrigue/Shinannigans
-[ ] Storyboarding
-[ ] 7 point plot structure
-[ ] hand held linux computer
-[ ] hugging face.co
-[ ] Lou Anders hollywood formula
-[ ] VDI
-[ ] Monocles
-[ ] Microscope RPG
-[ ] Daith
-[ ] Migraine Help
-[ ] Footnotes
-[ ] Skinth Alternatives
-[ ] Prayer Wheel Bracelet
-[ ] Mongolian Shamanism
-[ ] Sikhism
-[ ] Where to have chapbooks published
-[ ] how to code rocketbook functionality
-[ ] Best monospaced font for coding
-[ ] zebra micro pen
-[ ] Minecraft blockbench
-[ ] Minecraft entity wizard
-[ ] Svelte (code)
-[ ] Shadowdark RPG OSR
-[ ] Tesla Punk
-[ ]
+- [ ] Python based ai/ml
+- [ ] Voice to text
+- [ ] Ocham's razor
+- [ ] Oral storytelling
+- [ ] Hat pitch
+- [ ] Personalized fidget coin
+- [ ] Dice Mechanics
+- [ ] Where to have chapbooks printed and bound?
+- [ ] How to code a process like rocketbook that uses ai/ml to learn my handwriting and get better over time
+- [ ] Ars Noteria
+- [ ] Ars Goetia
+- [ ] Ars Theugia Goetia
+- [ ] Ars Paulina
+- [ ] Ars Almaled
+- [ ] Stable Diffusion
+- [ ] 7-8 heads tall
+- [ ] Magnetic Connectors
+- [ ] Bell-a-poc Period
+- [ ] Gilded Age
+- [ ] 3d printers
+- [ ] CNC
+- [ ] Sensory Dep Tanks
+- [ ] Metahuman Unreal Engine
+- [ ] Artbreeder
+- [ ] Unity
+- [ ] Combat/Discovery/Intrigue/Shinannigans
+- [ ] Storyboarding
+- [ ] 7 point plot structure
+- [ ] hand held linux computer
+- [ ] hugging face.co
+- [ ] Lou Anders hollywood formula
+- [ ] VDI
+- [ ] Monocles
+- [ ] Microscope RPG
+- [ ] Daith
+- [ ] Migraine Help
+- [ ] Footnotes
+- [ ] Skinth Alternatives
+- [ ] Prayer Wheel Bracelet
+- [ ] Mongolian Shamanism
+- [ ] Sikhism
+- [ ] Where to have chapbooks published
+- [ ] how to code rocketbook functionality
+- [ ] Best monospaced font for coding
+- [ ] zebra micro pen
+- [ ] Minecraft blockbench
+- [ ] Minecraft entity wizard
+- [ ] Svelte (code)
+- [ ] Shadowdark RPG OSR
+- [ ] 
