@@ -19,6 +19,7 @@
     - [ ] Svelte (code)
     - [ ] Minecraft blockbench
     - [ ] Minecraft entity wizard
+    - [ ] Dash apps
 
 === "Writing"
 
@@ -66,3 +67,22 @@
     - [ ] Where to have chapbooks published
     - [ ] zebra micro pen
     - [ ] Tesla Punk
+    - [ ] Pleiades
+    - [ ] Hyades
+    - [ ] Hyas
+    - [ ] Golden Gate of the Ecliptic
+    - [ ] Hesperides
+    - [ ] Nebra Sky Disc
+    - [ ] Aldebaran
+    - [ ] Standard broadcast television season is 22 episodes
+    - [ ] Erinyes
+    - [ ] Seneshal
+    - [ ] Legio iX
+    - [ ] Apache Guacamole
+    - [ ] Nudge Theory
+    - [ ] Zero Trap
+    - [ ] Fractals
+    - [ ] xencelabs quick keys
+    - [ ] anker 551 usb c hub for ipad
+    - [ ] nuphy air 75 or air 60 mechanical keyboard
+    - [ ] flint lock fantasy
