@@ -20,6 +20,10 @@
     - [ ] Minecraft blockbench
     - [ ] Minecraft entity wizard
     - [ ] Dash apps
+    - [ ] Apache Guacamole
+    - [ ] R? How to make a font
+    - [ ] R? How to use self made font on website
+    - [ ] R? How to export everything from Evernote
 
 === "Writing"
 
@@ -27,6 +31,8 @@
     - [ ] Oral storytelling
     - [ ] Storyboarding
     - [ ] 7 point plot structure
+    - [ ] Tesla Punk
+    - [ ] flint lock fantasy
 
 === "Gaming"
 
@@ -42,31 +48,41 @@
     - [ ] 3d printers
     - [ ] CNC
     - [ ] Prayer Wheel Bracelet
-
-=== "Catch All"
+    - [ ] Personalized fidget coin
+    - [ ] Skinth Alternatives
+    
+=== "Concepts"
 
     - [ ] Ocham's razor
     - [ ] Hat pitch
-    - [ ] Personalized fidget coin
+    - [ ] Sensory Dep Tanks
+    - [ ] Mongolian Shamanism
+    - [ ] Sikhism  
     - [ ] Ars Noteria
     - [ ] Ars Goetia
     - [ ] Ars Theugia Goetia
     - [ ] Ars Paulina
     - [ ] Ars Almaled
-    - [ ] 7-8 heads tall
-    - [ ] Bell-a-poc Period
-    - [ ] Gilded Age
-    - [ ] Sensory Dep Tanks
+
+=== "Ideas"
+
     - [ ] Monocles
     - [ ] Daith
     - [ ] Migraine Help
     - [ ] Footnotes
-    - [ ] Skinth Alternatives
-    - [ ] Mongolian Shamanism
-    - [ ] Sikhism
-    - [ ] Where to have chapbooks published
+    - [ ] Nudge Theory
+    - [ ] Zero Trap
+    - [ ] Fractals
+    
+=== "Drawing"
+
+    - [ ] 7-8 heads tall
+
+=== "Catch All"
+
+    - [ ] Bell-a-poc Period
+    - [ ] Gilded Age
     - [ ] zebra micro pen
-    - [ ] Tesla Punk
     - [ ] Pleiades
     - [ ] Hyades
     - [ ] Hyas
@@ -78,11 +94,6 @@
     - [ ] Erinyes
     - [ ] Seneshal
     - [ ] Legio iX
-    - [ ] Apache Guacamole
-    - [ ] Nudge Theory
-    - [ ] Zero Trap
-    - [ ] Fractals
     - [ ] xencelabs quick keys
     - [ ] anker 551 usb c hub for ipad
     - [ ] nuphy air 75 or air 60 mechanical keyboard
-    - [ ] flint lock fantasy
