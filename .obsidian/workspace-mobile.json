@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-12-07.md",
+                "file": "daily/2022-12-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "018698da01bcf2bb",
@@ -85,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "daily/2022-12-07.md",
+            "file": "daily/2022-12-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "daily/2022-12-07.md",
+            "file": "daily/2022-12-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "daily/2022-12-07.md"
+            "file": "daily/2022-12-08.md"
           }
         }
       },
@@ -131,6 +132,7 @@
   },
   "active": "34997d759aabbb22",
   "lastOpenFiles": [
+    "daily/2022-12-07.md",
     "daily/2022-12-06.md",
     "daily/2022-12-05.md",
     "Start.md",
@@ -139,7 +141,6 @@
     "OSR/new ability score system.md",
     "OSR/ability_scores.md",
     "OSR/Big Skill List.md",
-    "OSR/OSR_TTRPG_Build.md",
-    "WIP/wip metadata.md"
+    "OSR/OSR_TTRPG_Build.md"
   ]
 }
