@@ -25,3 +25,7 @@
 === "## Music To Listen To"
 
     * Currently Empty
+    
+=== "## TV Shows To Watch"
+    
+    * Cowboy bebop anime
