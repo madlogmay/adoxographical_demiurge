@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/index.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/index.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/index.md"
+            "file": "Untitled.md"
           }
         }
       },
@@ -132,9 +132,9 @@
   },
   "active": "34997d759aabbb22",
   "lastOpenFiles": [
+    "daily/2022-12-09.md",
     "docs/Test page.md",
     "docs/index.md",
-    "daily/2022-12-09.md",
     "daily/2022-12-08.md",
     "daily/2022-12-07.md",
     "daily/2022-12-06.md",

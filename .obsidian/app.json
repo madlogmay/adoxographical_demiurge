@@ -20,5 +20,6 @@
   ],
   "defaultViewMode": "preview",
   "showFrontmatter": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }
