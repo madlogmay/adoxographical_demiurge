@@ -17,5 +17,8 @@
     "editor:toggle-numbered-list",
     "editor:redo",
     "editor:configure-toolbar"
-  ]
+  ],
+  "defaultViewMode": "preview",
+  "showFrontmatter": true,
+  "spellcheck": true
 }

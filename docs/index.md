@@ -13,3 +13,5 @@ Something witty and interesting to make this page make sense to someone who isn'
 
 === "not About"
     This is another test
+
+[[Test page]]

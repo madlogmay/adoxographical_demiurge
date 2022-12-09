@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#ad3e00",
+  "interfaceFontFamily": "Candara",
+  "textFontFamily": "American Typewriter",
+  "monospaceFontFamily": "Andale Mono"
 }
