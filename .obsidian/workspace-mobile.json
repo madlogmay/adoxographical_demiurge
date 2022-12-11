@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "96e66730112b329a",
+        "id": "a292ba5fc2124bd7",
         "type": "tabs",
         "children": [
           {
-            "id": "34997d759aabbb22",
+            "id": "d1e73244cbbc8152",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "17f686b26905f1c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Running Daily Thoughts And Ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Running Daily Thoughts And Ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Running Daily Thoughts And Ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,12 +126,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Running Daily Thoughts And Ideas.md"
           }
         }
       },
       {
-        "id": "58bfcf03a427620a",
+        "id": "79ff4cd65b8422ab",
         "type": "leaf",
         "state": {
           "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -130,17 +141,17 @@
     ],
     "currentTab": 0
   },
-  "active": "34997d759aabbb22",
+  "active": "17f686b26905f1c9",
   "lastOpenFiles": [
     "daily/2022-12-09.md",
-    "docs/Test page.md",
-    "docs/index.md",
     "daily/2022-12-08.md",
+    "Running Daily Thoughts And Ideas.md",
     "daily/2022-12-07.md",
     "daily/2022-12-06.md",
     "daily/2022-12-05.md",
-    "Start.md",
     "daily/2022-12-04.md",
-    "OSR/dnd 5e ability scores.md"
+    "daily/2022-12-02.md",
+    "daily/2022-12-01.md",
+    "daily/2022-11-30.md"
   ]
 }

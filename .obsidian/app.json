@@ -21,5 +21,7 @@
   "defaultViewMode": "preview",
   "showFrontmatter": true,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "promptDelete": false
 }
