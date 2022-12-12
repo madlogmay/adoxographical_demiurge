@@ -1,3 +1,8 @@
+# Dec 12
+- [ ] R? Different number systems
+- [ ] 
+
+# older
 christmas list from m and e to girls
 - [[meal plan]]
 	- [[boboti]]
