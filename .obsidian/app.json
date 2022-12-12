@@ -22,6 +22,6 @@
   "showFrontmatter": true,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "promptDelete": false
 }

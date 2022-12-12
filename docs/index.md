@@ -14,5 +14,5 @@ Something witty and interesting to make this page make sense to someone who isn'
 === "not About"
     This is another test
 
-
+[diagram_test](diagram_test.md)
 [[diagram_test]]
