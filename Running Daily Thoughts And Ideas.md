@@ -1,8 +1,8 @@
 
 # Dec 13
 - [ ] Dev plan for cat box table in girl’s bathroom
-- [ ] Maplecraft by Cherie priest 
-- [ ] City of stairs by Robert Jackson bennet
+- [ ] Maplecroft by Cherie Priest 
+- [ ] City of stairs by Robert Jackson Bennet
 - [ ] Dev podcast idea
 - [ ] 
 
