@@ -15,4 +15,5 @@ Something witty and interesting to make this page make sense to someone who isn'
     This is another test
 
 [diagram_test](diagram_test.md)
-[[diagram_test]]
+[Spicy tangine with apricots  and ginger](Spicy%20tangine%20with%20apricots%20%20and%20ginger.md)
+

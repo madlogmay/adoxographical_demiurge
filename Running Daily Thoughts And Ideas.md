@@ -1,3 +1,12 @@
+
+# Dec 13
+- [ ] Dev plan for cat box table in girl’s bathroom
+- [ ] Maplecraft by Cherie priest 
+- [ ] City of stairs by Robert Jackson bennet
+- [ ] Dev podcast idea
+- [ ] 
+
+
 # Dec 12
 [boboti](boboti.md)
 - [ ] R? Different number systems
