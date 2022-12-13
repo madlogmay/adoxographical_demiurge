@@ -1,7 +1,7 @@
 # Cool Words
 
-| Word      | Pronounciation | Etymology | Entry                          |
-| :---------: | ------------------------------------ |
+| Word | Pronounciation | Etymology | Entry |
+| :---: | --- | --- | --- |
 | `Phrontistery` | (FRAHN-tə-ster-ee) | noun: Ancient Greek, 17th century | Definition: A place for thinking.|
 | `Escritoire` | (es-kri-TWAHR) | noun: French, 16th century | Definition: A small writing desk with drawers and compartments|
 | `Realia` | (ree-AL-ee-ə) | noun: Latin, 19th century | Definition: Objects and material from everyday life, especially when used as teaching aids.|
