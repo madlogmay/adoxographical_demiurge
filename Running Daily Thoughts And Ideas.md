@@ -1,8 +1,15 @@
 
+# Dec 14
+- [ ] Job search
+- [ ] Masters programs
+- [ ] Online trot avatar creator
+- [ ] Dev otter workflow
+- [ ] 
+
 # Dec 13
 - [ ] Dev plan for cat box table in girl’s bathroom
 - [ ] Maplecroft by Cherie Priest 
-- [ ] City of stairs by Robert Jackson Bennet
+- [ ] City of stairsby Robert Jackson Bennet
 - [ ] Dev podcast idea
 - [ ] 
 
