@@ -1,4 +1,7 @@
 
+# Dec 15
+- [ ] 
+
 # Dec 14
 - [ ] Job search
 - [ ] Masters programs
