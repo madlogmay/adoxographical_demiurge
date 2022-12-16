@@ -4,7 +4,6 @@
 
     - [ ] Python based ai/ml
     - [ ] Voice to text
-    - [ ] Stable Diffusion
     - [ ] How to code a process like rocketbook that uses ai/ml to learn my handwriting and get better over time
     - [ ] Metahuman Unreal Engine
     - [ ] Artbreeder
@@ -24,6 +23,7 @@
     - [ ] R? How to make a font
     - [ ] R? How to use self made font on website
     - [ ] R? How to export everything from Evernote
+    - [ ] R? Metahuman Creator Unity
 
 === "Writing"
 
