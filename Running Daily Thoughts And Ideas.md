@@ -1,6 +1,14 @@
 
+# Dec16
+- [ ] r?  DIY pocket watch kit
+- [ ]  R? Hammer head cane
+- [ ] The-gadgeteer.com
+- [ ] R? Otter.ai
+- [ ] R? Bandoliers 
+
+
 # Dec 15
-- [ ] 
+- [ ] 968565878525959881
 
 # Dec 14
 - [ ] Job search
