@@ -5,7 +5,18 @@
 - [ ] The-gadgeteer.com
 - [ ] R? Otter.ai
 - [ ] R? Bandoliers 
-
+- [ ] Sewing Form
+- [ ] Land Nav with the kids
+- [ ] Hydrophobic fabric
+- [ ] Hydrophobic poncho
+- [ ] Otter Wax weatherproofer
+Captian Hook actually just needs his compass back and a new clock so he can navigate home
+Voice to text and chatbot ai/ml thingy to take information and ask questions to get more information
+mermaid graph for OSR dev
+worldbuild for OSR
+worldbuild for WIP novel
+learn ai/ml
+nlp work with my notes and chatbot thing
 
 # Dec 15
 - [ ] 968565878525959881
