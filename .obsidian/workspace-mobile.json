@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/adoxographical/diagram_test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "83aeea18d2a589ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Running Daily Thoughts And Ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Running Daily Thoughts And Ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Running Daily Thoughts And Ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Running Daily Thoughts And Ideas.md"
           }
         }
       },
@@ -141,17 +154,17 @@
     ],
     "currentTab": 0
   },
-  "active": "17f686b26905f1c9",
+  "active": "83aeea18d2a589ff",
   "lastOpenFiles": [
+    "otter_sorted_notes.md",
+    "README.md",
     "Running Daily Thoughts And Ideas.md",
+    "docs/adoxographical/diagram_test.md",
+    "docs/OSR/OSR diagram.md",
+    "docs/OSR/osr_ideas.md",
     "daily/2022-12-09.md",
     "daily/2022-12-08.md",
     "daily/2022-12-07.md",
-    "daily/2022-12-06.md",
-    "daily/2022-12-05.md",
-    "daily/2022-12-04.md",
-    "daily/2022-12-02.md",
-    "daily/2022-12-01.md",
-    "daily/2022-11-30.md"
+    "daily/2022-12-06.md"
   ]
 }

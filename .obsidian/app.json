@@ -16,6 +16,9 @@
     "editor:insert-link",
     "editor:toggle-numbered-list",
     "editor:redo",
+    "editor:toggle-source",
+    "editor:move-caret-left",
+    "editor:move-caret-right",
     "editor:configure-toolbar"
   ],
   "defaultViewMode": "preview",

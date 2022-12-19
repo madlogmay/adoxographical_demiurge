@@ -1,4 +1,14 @@
 
+# Dec19
+-  T! J. Toner boa switch
+- T! Boa c card switch to new checking
+- T! Att switch to boa new checking
+- T! Walgreens for meds
+- 
+
+# Dec17
+
+
 # Dec16
 - [ ] r?  DIY pocket watch kit
 - [ ]  R? Hammer head cane
