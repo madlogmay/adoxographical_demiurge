@@ -2,9 +2,76 @@
 
 === "Things To Research"
 
-    | Type | Category | Thing |
-    | :---: | :---: | :--- |
-    | `First row` |  |  |  |
+    | Thing |
+    |:---: |
+    | `Apache Guacamole` |
+    | `Artbreeder` |
+    | `Bandoliers` |
+    | `Best monospaced font for coding` |
+    | `Brumate` |
+    | `Build specs for "table" for cat box in girl's bathroom with adjustable feet for balancing` |
+    | `Combat/Discovery/Intrigue/Shinannigans` |
+    | `Conan` |
+    | `Daith` |
+    | `Dash apps` |
+    | `Dev otter workflow` |
+    | `Dev plan for finances` |
+    | `Dev podcast idea` |
+    | `Dice Mechanics` |
+    | `Different number systems` |
+    | `Different rpg attribute score types` |
+    | `Donut ideas` |
+    | `Footnotes` |
+    | `Fractals` |
+    | `Ghost of belfast` |
+    | `Handicapped vs flawed` |
+    | `Hat pitch` |
+    | `How to code a process like rocketbook that uses ai/ml to learn my handwriting and get better over time` |
+    | `How to code rocketbook functionality` |
+    | `How to export everything from Evernote` |
+    | `How to make a font` |
+    | `How to use self made font on website` |
+    | `Hugging face.co` |
+    | `Hydrophobic poncho` |
+    | `Javascript based ai/ml` |
+    | `L5r attribute score?` |
+    | `Land Nav with the kids` |
+    | `Learn ai/ml` |
+    | `Lou Anders hollywood formula` |
+    | `Maltese Falcon` |
+    | `Mermaid graph for OSR dev` |
+    | `Metahuman Creator Unity` |
+    | `Microscope RPG` |
+    | `Minecraft blockbench` |
+    | `Minecraft entity wizard` |
+    | `Nlp work with my notes and chatbot thing` |
+    | `Nudge Theory` |
+    | `Ocham's razor` |
+    | `Online trot avatar creator` |
+    | `Oral storytelling` |
+    | `Osr ideas` |
+    | `Otter Wax weatherproofer` |
+    | `Otter.ai` |
+    | `Personalized fidget coin` |
+    | `Prayer Wheel Bracelet` |
+    | `Python based ai/ml` |
+    | `Seneshal` |
+    | `Sensory Dep Tanks` |
+    | `Shadowdark RPG OSR` |
+    | `Skills vs knacks and tier level` |
+    | `Skinth Alternatives` |
+    | `Stackblitz (code)` |
+    | `Standard broadcast television season is 22 episodes` |
+    | `Svelte (code)` |
+    | `The-gadgeteer.com` |
+    | `Unity` |
+    | `VDI` |
+    | `Voice to text` |
+    | `Voice to text and chatbot ai/ml thingy to take information and ask questions to get more information` |
+    | `Where to have chapbooks printed and bound?` |
+    | `Worldbuild for OSR` |
+    | `Worldbuild for WIP novel` |
+    | `Zero Trap` |
     
 === "Books To Read"
     
