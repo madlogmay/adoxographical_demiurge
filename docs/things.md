@@ -8,6 +8,8 @@
 
 === "Media To Ingest"
 
+| Type | Title | Series | Author |
+| :---: | :--- | :--- | :--- |
 | `Book` | Ghost of belfast | | Stuart Neville |
 | `Book` | Insomnia | The Night Walkers Series 1 | J.R. Johansson |
 | `Book` | First Chosen | Tears Of Rage Series 1 | | M. Todd Gallowglas |
