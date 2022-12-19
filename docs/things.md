@@ -10,7 +10,7 @@
     
     | Title | Author |
     | :--- | :--- |
-    | `Ghost of belfast` | - | Stuart Neville |
+    | `Ghost of belfast` | Stuart Neville |
     | `Insomnia (The Night Walkers Series 1)` | J.R. Johansson |
     | `First Chosen (Tears Of Rage Series 1)` | M. Todd Gallowglas |
     | `Angel maker` | Nick Harkoway |
