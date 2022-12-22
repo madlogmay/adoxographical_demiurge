@@ -1,3 +1,7 @@
+R/ Oculus games
+
+
+
 OSR
 Player
 DM
@@ -18,7 +22,7 @@ Attributes	Ability Scores	Characteristics
 Talents	Skills	Knowledges
 Luck
 Sanity
-Hit Points
+Hit Pointsz
 Magic Points
 Strength	Dexterity	Constitution	Intelligence(idea)	Size	Power	Apperance	Education(Know)
 Move
