@@ -1,4 +1,6 @@
 R/ Oculus games
+https://forums.runehammer.online/t/the-hp-issue-two-solutions/5742
+https://questingbeast.substack.com/
 
 
 
