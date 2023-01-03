@@ -26,3 +26,17 @@
 | `Perseverate` | (pər-SEV-ə-reyt) | verb English, 20th century | Definition: Repeat or prolong an action, thought, or utterance after the stimulus that prompted it has ceased.|
 | `Devoir` | (də-VWAR) | noun Middle English, 14th century | Definition: A person's duty.|
 | `Ephemera` | (ih-FEM-ər-ə) | noun Latin, 14th century | Definition: Things that exist or are used or enjoyed for only a short time.|
+| `Velleity ` | (və-LEE-ə-dee) | noun: Latin, 17th century | Definition: A wish or inclination not strong enough to lead to action. |
+| `Pericope` | (pə-RIK-ə-pee) | noun: Ancient Greek, 17th century | Definition: An extract from a text, especially a passage from the Bible. |
+| `Pavlovian` | (pav-LOH-vee-ən) | adjective: From proper name, 20th century | Definition: Relating to classical conditioning as described by I. P. Pavlov. |
+| `Turbid` | (TUR-bəd) | adjective: Latin, 17th century | Definition: (Of a liquid) Cloudy, opaque, or thick with suspended matter. |
+| `Melomaniac` | (MEL-ə-mey-nee-ak) | noun: English, 19th century | Definition: A person who loves music. |
+| `Scalene` | (skey-LEEN) | adjective: Greek, 18th century | Definition: (Of a triangle) Having sides unequal in length. |
+| `Attornment` | (ə-TURN-mənt) | noun: French, 15th century | Definition: The formal transference of something to someone else. |
+| `Rhadamanthine` | (rad-ə-MAN-theen) | adjective: English, late 18th century | Definition: Showing stern and inflexible judgment. |
+| `Repartee` | (rep-ər-TEE) | noun: French, 17th century | Definition: Conversation or speech characterized by quick, witty comments or replies. |
+| `Flavanol` | (FLAY-və-nohl) | noun: German, 19th century | Definition: Any of a major group of flavonoids found in many fruits and vegetables. |
+| `Mizzle` | (MIZ-əl) | noun: Dutch, 15th century | Definition: Light rain; drizzle. |
+| `Perpend` | (pər-PEND) | verb: Latin, 15th century | Definition: (archaic) To ponder, consider. |
+| `Palinode` | (PAL-ə-nohd) | noun: Latin, 17th century | Definition: A poem in which the poet retracts a view or sentiment expressed in a former poem. |
+| `Renascent` | (rih-NEY-sənt) | adjective: Latin, 17th century | Definition: Becoming active or popular again. |
