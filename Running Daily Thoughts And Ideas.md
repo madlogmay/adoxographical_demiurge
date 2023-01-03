@@ -1,8 +1,15 @@
+Groceries
+Kitchen
+Living room
+Water bowls
+V room
+
 R/ Oculus games
 https://forums.runehammer.online/t/the-hp-issue-two-solutions/5742
 https://questingbeast.substack.com/
 
-
+Verizon tech for router
+8885531555
 
 OSR
 Player

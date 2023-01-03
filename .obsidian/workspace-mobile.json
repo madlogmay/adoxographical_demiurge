@@ -18,25 +18,25 @@
             }
           },
           {
-            "id": "17f686b26905f1c9",
+            "id": "ed22da7339b000d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/adoxographical/diagram_test.md",
+                "file": "docs/writing/world building questions/world building questions master.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "83aeea18d2a589ff",
+            "id": "fd5e31f42bed57d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running Daily Thoughts And Ideas.md",
+                "file": "docs/writing/world building questions/world building questions index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Running Daily Thoughts And Ideas.md",
+            "file": "docs/writing/world building questions/world building questions index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Running Daily Thoughts And Ideas.md",
+            "file": "docs/writing/world building questions/world building questions index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Running Daily Thoughts And Ideas.md"
+            "file": "docs/writing/world building questions/world building questions index.md"
           }
         }
       },
@@ -154,17 +154,17 @@
     ],
     "currentTab": 0
   },
-  "active": "83aeea18d2a589ff",
+  "active": "fd5e31f42bed57d7",
   "lastOpenFiles": [
+    "docs/writing/world building questions/world building questions master.md",
+    "docs/index.md",
+    "docs/adoxographical/diagram_test.md",
+    "docs/projects/codingProject2023.md",
+    "Running Daily Thoughts And Ideas.md",
+    "Coursera notes.md",
     "otter_sorted_notes.md",
     "README.md",
-    "Running Daily Thoughts And Ideas.md",
-    "docs/adoxographical/diagram_test.md",
     "docs/OSR/OSR diagram.md",
-    "docs/OSR/osr_ideas.md",
-    "daily/2022-12-09.md",
-    "daily/2022-12-08.md",
-    "daily/2022-12-07.md",
-    "daily/2022-12-06.md"
+    "docs/OSR/osr_ideas.md"
   ]
 }
