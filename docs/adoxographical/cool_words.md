@@ -40,3 +40,5 @@
 | `Perpend` | (pər-PEND) | verb: Latin, 15th century | Definition: (archaic) To ponder, consider. |
 | `Palinode` | (PAL-ə-nohd) | noun: Latin, 17th century | Definition: A poem in which the poet retracts a view or sentiment expressed in a former poem. |
 | `Renascent` | (rih-NEY-sənt) | adjective: Latin, 17th century | Definition: Becoming active or popular again. |
+| `Librate` | (LAHY-brayt) | verb: Latin, 17th century | Definition: Oscillate or seem to oscillate.
+| `Mumpsimus` | (MUMP-sə-məs) | noun: Latin, 16th century |Definition: A traditional custom or notion adhered to although shown to be unreasonable.
