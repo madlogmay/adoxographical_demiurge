@@ -42,3 +42,7 @@
 | `Renascent` | (rih-NEY-sənt) | adjective: Latin, 17th century | Definition: Becoming active or popular again. |
 | `Librate` | (LAHY-brayt) | verb: Latin, 17th century | Definition: Oscillate or seem to oscillate.
 | `Mumpsimus` | (MUMP-sə-məs) | noun: Latin, 16th century |Definition: A traditional custom or notion adhered to although shown to be unreasonable.
+| `Syllabub` | (SIL-ə-bəb) | noun: Unknown, 16th century | A whipped cream dessert, typically flavored with white wine or sherry.|
+| `largesse` | (lahr-JESS) | noun: Old French, 13th century | Generosity in bestowing money or gifts upon others.|
+| `Prink` | (prink) | verb: Middle Low German, 16th century | Spend time making minor adjustments to one's appearance; primp.|
+| `Obtund` | (ob-TUHND) | verb: Latin, 15th century | Dull the sensitivity of; blunt; deaden.|
