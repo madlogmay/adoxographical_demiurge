@@ -23,15 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing/world building questions/world building questions master.md",
+                "file": "Tessellated Clock.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/writing/world building questions/world building questions master.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +112,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/writing/world building questions/world building questions master.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +122,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "docs/writing/world building questions/world building questions master.md"
-          }
+          "state": {}
         }
       },
       {
@@ -141,8 +136,9 @@
     ],
     "currentTab": 0
   },
-  "active": "ed22da7339b000d0",
+  "active": "d1e73244cbbc8152",
   "lastOpenFiles": [
+    "Tessellated Clock.md",
     "Running Daily Thoughts And Ideas.md",
     "docs/things.md",
     "docs/adoxographical/cool_words.md",
@@ -151,7 +147,6 @@
     "docs/index.md",
     "docs/adoxographical/diagram_test.md",
     "docs/projects/codingProject2023.md",
-    "Coursera notes.md",
-    "otter_sorted_notes.md"
+    "Coursera notes.md"
   ]
 }
