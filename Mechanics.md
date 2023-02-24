@@ -1,0 +1,7 @@
+[[Race]]
+[[Class]]
+[[Background]]
+[[Proficiency]]
+[[Equipment]]
+[[Spell]]
+[[Companion]]

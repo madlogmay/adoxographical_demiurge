@@ -23,20 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing/world building questions/world building questions master.md",
-                "mode": "source",
+                "file": "Barbarian.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "fd5e31f42bed57d7",
+            "id": "05fd102b0be1c373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/writing/world building questions/world building questions index.md",
+                "file": "Ideas_And_Awesomeness.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/writing/world building questions/world building questions index.md",
+            "file": "Ideas_And_Awesomeness.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/writing/world building questions/world building questions index.md",
+            "file": "Ideas_And_Awesomeness.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/writing/world building questions/world building questions index.md"
+            "file": "Ideas_And_Awesomeness.md"
           }
         }
       },
@@ -154,17 +154,27 @@
     ],
     "currentTab": 0
   },
-  "active": "fd5e31f42bed57d7",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "05fd102b0be1c373",
   "lastOpenFiles": [
-    "docs/writing/world building questions/world building questions master.md",
-    "docs/index.md",
-    "docs/adoxographical/diagram_test.md",
-    "docs/projects/codingProject2023.md",
-    "Running Daily Thoughts And Ideas.md",
-    "Coursera notes.md",
-    "otter_sorted_notes.md",
-    "README.md",
-    "docs/OSR/OSR diagram.md",
-    "docs/OSR/osr_ideas.md"
+    "Index.md",
+    "Barbarian.md",
+    "Class.md",
+    "Mechanics.md",
+    "Ally.md",
+    "Player Characters.md",
+    "Virginia.md",
+    "Ideas_And_Awesomeness.md",
+    "Tessellated Clock.md",
+    "Running Daily Thoughts And Ideas.md"
   ]
 }
