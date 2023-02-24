@@ -36,15 +36,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "Ideas_And_Awesomeness.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Barbarian.md",
+            "file": "Ideas_And_Awesomeness.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Barbarian.md",
+            "file": "Ideas_And_Awesomeness.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Barbarian.md"
+            "file": "Ideas_And_Awesomeness.md"
           }
         }
       },
@@ -154,12 +154,22 @@
     ],
     "currentTab": 0
   },
-  "active": "ed22da7339b000d0",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "05fd102b0be1c373",
   "lastOpenFiles": [
+    "Index.md",
     "Barbarian.md",
     "Class.md",
     "Mechanics.md",
-    "Index.md",
     "Ally.md",
     "Player Characters.md",
     "Virginia.md",
