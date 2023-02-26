@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barbarian.md",
+                "file": "Campaign/Campaign.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas_And_Awesomeness.md",
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ideas_And_Awesomeness.md",
+            "file": "Campaign/Campaign.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ideas_And_Awesomeness.md",
+            "file": "Campaign/Campaign.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ideas_And_Awesomeness.md"
+            "file": "Campaign/Campaign.md"
           }
         }
       },
@@ -164,16 +164,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05fd102b0be1c373",
+  "active": "ed22da7339b000d0",
   "lastOpenFiles": [
+    "Campaign Primer.md",
+    "Campaign/Campaign.md",
+    "Research.md",
     "Index.md",
+    "World Build.md",
+    "Recipes/Spicy tangine with apricots  and ginger.md",
+    "Ideas_And_Awesomeness.md",
     "Barbarian.md",
     "Class.md",
     "Mechanics.md",
     "Ally.md",
     "Player Characters.md",
     "Virginia.md",
-    "Ideas_And_Awesomeness.md",
     "Tessellated Clock.md",
     "Running Daily Thoughts And Ideas.md"
   ]

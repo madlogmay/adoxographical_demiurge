@@ -11,11 +11,38 @@
             "id": "3eca679a348a1d30",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "4da967048d2cb743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8510df9bbdbb96e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Research.md"
+              }
             }
           }
         ]
@@ -138,6 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3eca679a348a1d30",
-  "lastOpenFiles": []
+  "active": "4da967048d2cb743",
+  "lastOpenFiles": [
+    "Research.md",
+    "Index.md",
+    "Campaign/Campaign.md",
+    "Campaign/Campaign Primer.md",
+    "adoxographical/OSR/osr_ideas.md"
+  ]
 }
