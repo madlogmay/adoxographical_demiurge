@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Campaign/Campaign.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Campaign/Campaign.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,9 +135,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Campaign/Campaign.md"
-          }
+          "state": {}
         }
       },
       {
@@ -164,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed22da7339b000d0",
+  "active": "d1e73244cbbc8152",
   "lastOpenFiles": [
-    "Campaign Primer.md",
     "Campaign/Campaign.md",
+    "Campaign Primer.md",
     "Research.md",
     "Index.md",
     "World Build.md",
