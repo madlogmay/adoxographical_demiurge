@@ -1,0 +1,17 @@
+# Session Zero
+
+!!! question inline end "Why is this Session Zero and not session one?"
+    Well thanks for asking. This is session zero because this is the session before the campaign officially starts. It is the session where we make sure everyone has their character mostly figured out and built. It is the session where I, the narrator, make sure that you, the player, not only knows about the world that we are going to play in but actually knows enough to feel comfortable in the world we are going to play in. This is also where we set ground rules, talk about homebrew rules and mechanics, and where we talk about safety tools. 
+## Welcome Everyone To Session Zero!
+I know for some of you this will be the first time playing D&D or maybe even your first time playing any table top roleplaying game (TTRPG). I don't want that to be scary. I know that there are a bunch of books with a bunch of rules and descriptions and stat blocks and abbreviations that make no sense. For a lot of people that looks like too much to handle so they never get into it. But you don't have to worry about that. There are only three things that you absolutely need to be able to do to play this game. Everything else you can pick up and figure out along the way. And I will be right there helping and making sure it all works. 
+
+??? success "Have Fun"
+    This is a game. And that means that if you aren't having fun then something is wrong. I am not going to tell you that your character is going to win everytime or suceed in everything. To be honest, a character in any story that always gets what they want the first time they try are really boring and no fun. I will tell you that when you suceed it is going to be awesome. And when you fail it is going to help make the story more interesting. This game is all about being a character in a story and pushing the story forward by doing things, messing things up, fixing things, failing, and winning. It needs all of that to make the story not only good but fun to experience. 
+
+??? success "Help Others Have Fun"
+    This is a story. It is a story about a group of people that have come together to do something. They are a team. That doesn't mean your character has to be super friends with every other character. But it does mean that you need to be a team that works together. And more importantly it means that you as a player should help the other players have fun too. Give people the oppurtunity to have their moment of awesome in the story. Don't do stuff that is going to make the game not fun for another player. 
+
+??? success "Play Your Character"
+    Don't worry about your character sheet or what all the numbers and stuff means. Get into the head of your character and have fun exploring this new world through their eyes. You don't have to have everything figured out about your character either. As you play, your character will grow and fill out details naturally. And that is a good thing. Remember, if after the first couple of sessions what is on your character sheet isn't fitting how you are playing your character the only thing that matters is this: Are you enjoying playing your character? If the answer is yes then I will help you figure out how to make your character sheet fit your character. Don't worry about trying to fit your character to your character sheet. That way isn't normally a fun way to do it anyway. 
+
+## But How Do We Play This Game?
