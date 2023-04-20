@@ -21,8 +21,13 @@
             "id": "ed22da7339b000d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Today.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -33,7 +38,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Today.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,6 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Today.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +133,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Today.md"
+          }
         }
       },
       {
@@ -149,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1e73244cbbc8152",
+  "active": "ed22da7339b000d0",
   "lastOpenFiles": [
+    "Today.md",
     "Player Characters/Player Characters.md",
     "Campaign/Campaign.md",
     "adoxographical/cool_words.md",
@@ -176,7 +187,6 @@
     "Campaign/World Build.md",
     "Campaign Primer.md",
     "World Build.md",
-    "Barbarian.md",
-    "Class.md"
+    "Barbarian.md"
   ]
 }
