@@ -25,3 +25,6 @@ Naval msg ref
 Who decided that?
 
 R? Transcription system with evolution learning, post processing,
+
+https://medium.com/visionwizard/train-your-own-speech-recognition-model-in-5-simple-steps-512d5ac348a5
+
