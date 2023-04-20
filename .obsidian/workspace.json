@@ -29,6 +29,16 @@
             }
           },
           {
+            "id": "b7a9255cf27533ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "8510df9bbdbb96e2",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4da967048d2cb743",
+  "active": "bcb6e066c550dbc3",
   "lastOpenFiles": [
     "Research.md",
     "Index.md",

@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Campaign.md",
-                "mode": "preview",
+                "file": "Today.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -34,16 +34,12 @@
             "id": "05fd102b0be1c373",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,6 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Today.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,6 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Today.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +133,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Today.md"
+          }
         }
       },
       {
@@ -159,22 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1e73244cbbc8152",
+  "active": "ed22da7339b000d0",
   "lastOpenFiles": [
+    "Today.md",
+    "Player Characters/Player Characters.md",
     "Campaign/Campaign.md",
-    "Campaign Primer.md",
+    "adoxographical/cool_words.md",
+    "Ideas_And_Awesomeness.md",
     "Research.md",
     "Index.md",
-    "World Build.md",
-    "Recipes/Spicy tangine with apricots  and ginger.md",
-    "Ideas_And_Awesomeness.md",
-    "Barbarian.md",
-    "Class.md",
-    "Mechanics.md",
-    "Ally.md",
-    "Player Characters.md",
-    "Virginia.md",
+    "mkdocs.yml",
+    "Campaign/Mechanics/Class/Class.md",
+    "adoxographical/OSR/skill ideas/gurps_skills.md",
+    "adoxographical/OSR/skill ideas/Big_Skill_List.md",
+    "Player Characters/Ally.md",
     "Tessellated Clock.md",
-    "Running Daily Thoughts And Ideas.md"
+    "Player Characters/Virginia.md",
+    "adoxographical/diagram_test.md",
+    "adoxographical/OSR/osr_ideas.md",
+    "adoxographical/links.md",
+    "adoxographical/average_room_sizes.md",
+    "adoxographical/occupations_1920_US_census.md",
+    "Campaign/Mechanics/Class/Barbarian.md",
+    "Recipes/Spicy tangine with apricots  and ginger.md",
+    "adoxographical/quotes.md",
+    "Campaign/Mechanics/Mechanics.md",
+    "Campaign/World Build.md",
+    "Campaign Primer.md",
+    "World Build.md",
+    "Barbarian.md"
   ]
 }
