@@ -1,3 +1,4 @@
 This is a test
 
-:material-dice-d4-outline:
+d4
+*[d4]: :material-dice-d4-outline:
