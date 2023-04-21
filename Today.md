@@ -1,3 +1,5 @@
+Humans are endurance predators 
+
 Research u bolts and Houdini fence 13 posts
 
 Plotting vs what planning
